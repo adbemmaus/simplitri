@@ -1,0 +1,55 @@
+.btn-xlarge {
+  padding: 18px 28px;
+  font-size: 22px; //change this to your desired size
+  line-height: normal;
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+      border-radius: 8px;
+      height: 75px;
+      width: 150px;
+}
+
+.btn-xlarge-down {
+  padding: 18px 28px;
+  font-size: 22px; //change this to your desired size
+  line-height: normal;
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+      border-radius: 8px;
+      height: 70px;
+      width: 70px;
+}
+
+.btn-xlarge2 {
+
+  font-size: 22px; //change this to your desired size
+
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+      border-radius: 8px;
+      height: 150px;
+      width: 150px;
+
+
+}
+  .spinner1 {
+
+  height:150px;
+  width:150px;
+font-size: 50px;
+text-align: center;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+.hide {
+  display: none;
+}
